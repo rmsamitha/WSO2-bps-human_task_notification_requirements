@@ -1,0 +1,3 @@
+-This repository includes the third party .jar and files and  required for the WSO2 BPS's "Human Task Notification - Email & SMS notification support" setup. 
+-The location each file should be placed are mentioned in The Containing Folder name, the directories seperated by hypens(-). As well a README file in each sub folders will define where each sub folder contents should be placed.
+***
